@@ -54,6 +54,7 @@ int main( )
 		}
 	}
 	while ( val != 3 );
+cout<<"Solveig Sif Gudmundsdottir"<<endl;
 
 	return 0;
 }
